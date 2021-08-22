@@ -1,0 +1,21 @@
+.add-input{
+    width: 90%;
+    margin-left: 5%;
+}
+.add-input input{
+    width: 98%;
+    height: 48px;
+    box-shadow: 0 0 4px 4px lightgrey inset;
+    border: lightgrey 1px solid;
+    border-radius: 10px;
+}
+.add-task{
+    width: 90%;
+    margin-top: 16px;
+    background-color: #007d19;
+    border-radius: 10px;
+    color: white;
+}
+.add-task h1{
+    padding: 10px;
+}

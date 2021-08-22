@@ -1,0 +1,11 @@
+.task{
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: 16px;
+    color: red;
+    font-weight: bold;
+}
+.done{
+    color: #007d19;
+    text-decoration: line-through;
+}
