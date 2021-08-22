@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/spdu2021-frontend/static/css/main.a5583fa4.chunk.css",
-    "main.js": "/spdu2021-frontend/static/js/main.597129e6.chunk.js",
-    "main.js.map": "/spdu2021-frontend/static/js/main.597129e6.chunk.js.map",
+    "main.css": "/spdu2021-frontend/static/css/main.5fc80cc8.chunk.css",
+    "main.js": "/spdu2021-frontend/static/js/main.4319d1df.chunk.js",
+    "main.js.map": "/spdu2021-frontend/static/js/main.4319d1df.chunk.js.map",
     "runtime-main.js": "/spdu2021-frontend/static/js/runtime-main.97dce948.js",
     "runtime-main.js.map": "/spdu2021-frontend/static/js/runtime-main.97dce948.js.map",
     "static/js/2.5ed7ef4e.chunk.js": "/spdu2021-frontend/static/js/2.5ed7ef4e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.4c05c218.chunk.js": "/spdu2021-frontend/static/js/3.4c05c218.chunk.js",
     "static/js/3.4c05c218.chunk.js.map": "/spdu2021-frontend/static/js/3.4c05c218.chunk.js.map",
     "index.html": "/spdu2021-frontend/index.html",
-    "static/css/main.a5583fa4.chunk.css.map": "/spdu2021-frontend/static/css/main.a5583fa4.chunk.css.map",
+    "static/css/main.5fc80cc8.chunk.css.map": "/spdu2021-frontend/static/css/main.5fc80cc8.chunk.css.map",
     "static/js/2.5ed7ef4e.chunk.js.LICENSE.txt": "/spdu2021-frontend/static/js/2.5ed7ef4e.chunk.js.LICENSE.txt",
     "static/media/2.09e716c5.jpg": "/spdu2021-frontend/static/media/2.09e716c5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.97dce948.js",
     "static/js/2.5ed7ef4e.chunk.js",
-    "static/css/main.a5583fa4.chunk.css",
-    "static/js/main.597129e6.chunk.js"
+    "static/css/main.5fc80cc8.chunk.css",
+    "static/js/main.4319d1df.chunk.js"
   ]
 }
