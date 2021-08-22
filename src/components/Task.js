@@ -10,7 +10,6 @@ export const Task = (task) => {
         }else {
             x.classList.remove("done")
         }
-        console.log(x)
     }
     return(
         <div className="task" onChange={handleChang}>
